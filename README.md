@@ -1,2 +1,21 @@
-# pomodoro_timer
-A Pomodoro Timer desktop application built with Python and Tkinter. It features 25-minute work sessions, short and long breaks, a visual progress tracker, and a clean GUI to help users stay focused and productive using the Pomodoro Technique.
+Pomodoro Timer
+
+A desktop Pomodoro Timer built with Python and Tkinter that helps users stay focused and productive by following the Pomodoro Technique. The application automatically alternates between work sessions and breaks while tracking completed work sessions.
+
+App Image:
+
+![Pomodoro Timer](pomodoro_app.png)
+
+Features:
+
+- 25-minute work sessions
+- 5-minute short breaks
+- 20-minute long break after every 4 work sessions
+- Visual progress tracker using check marks
+- Reset timer functionality
+- Clean and simple Tkinter graphical interface
+
+Built With:
+
+- Python 
+- Tkinter
