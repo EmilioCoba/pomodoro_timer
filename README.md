@@ -2,7 +2,7 @@ Pomodoro Timer
 
 A desktop Pomodoro Timer built with Python and Tkinter that helps users stay focused and productive by following the Pomodoro Technique. The application automatically alternates between work sessions and breaks while tracking completed work sessions.
 
-App Image:
+App Preview:
 
 ![Pomodoro Timer](pomodoro_app.png)
 
